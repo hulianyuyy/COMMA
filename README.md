@@ -21,7 +21,7 @@ Official implementation of the paper "[COMMA: Co-Articulated Multi-Modal Learnin
 | Deep Vision Prompting     | -                                             |    [link](configs/trainers/VPT/vit_b16_c2_ep5_batch4_4.yaml)    |        [link](scripts/vpt)         |
 | Deep Language Prompting   | -                                             |                 [link](configs/trainers/IVLP/vit_b16_c2_ep5_batch4_4ctx_language_only.yaml)                  | [link](scripts/language-prompting) |
 | Independent V-L Prompting | -                                             | [link](configs/trainers/IVLP/vit_b16_c2_ep5_batch4_2+2ctx.yaml) |  [link](scripts/independent-vlp)   |
-| COMMA (ours) | [AAAI2024]((https://arxiv.org/abs/2401.00268)  )                                             | [link](configs/trainers/COMMA/vit_b16_c2_ep5_batch4_2+2ctx.yaml) |  [link](scripts/comma)   |
+| COMMA (ours) | [AAAI2024](https://arxiv.org/abs/2401.00268)                                              | [link](configs/trainers/COMMA/vit_b16_c2_ep5_batch4_2+2ctx.yaml) |  [link](scripts/comma)   |
 <hr />
 
 ## Results
