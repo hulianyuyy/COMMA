@@ -35,7 +35,7 @@ Results reported below show accuracy for base and novel classes for across 11 re
 | [CoCoOp](https://arxiv.org/abs/2203.05557) |   80.47   |   71.69    |   75.83   |   10   | 
 | [KgCoOp](https://arxiv.org/abs/2303.13283) |   80.73   |   73.60    |   77.00   |   10  |  
 | [MaPLe ](https://arxiv.org/abs/2210.03117)  |   82.28   | 75.14  | 78.55 |   5    |  
-[ COMMA (ours)](https://arxiv.org/abs/2401.00268)  |   82.42   | 75.87  | 79.04 |   5    |  
+[ COMMA (ours)](https://arxiv.org/abs/2401.00268)  |   82.42   | **75.87**  | **79.04** |   5    |  
 
 ## Installation 
 For installation and other package requirements, please follow the instructions detailed in [INSTALL.md](docs/INSTALL.md). 
